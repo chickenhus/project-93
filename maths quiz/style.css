@@ -1,0 +1,29 @@
+.div_1{
+    border-style: solid black;
+} 
+
+.div_2{
+    border-style: solid black;
+} 
+
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4444;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    border: solid black ;
+}
+
+#output1
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4444;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    border: solid black ;
+}
